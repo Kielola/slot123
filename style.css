@@ -1,0 +1,61 @@
+h1{
+    color: red;
+    text-align: center;
+}
+form{
+    text-align: center;
+
+    border: white;
+    margin-bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.input{
+    
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.imagediv{
+    text-align: center;
+    background-color: grey;
+}
+    .vivo{
+        margin-top: 8px;
+        }
+        .flex-container {
+            align-items: center;
+            display: -webkit-flex;
+            display: flex;
+            width: 250px;
+            height: 150px;
+            background-color: white;
+            margin: 0 auto;
+        }
+        .apple{
+            align-items: center;
+            margin: 0 auto;
+        }    
+        .red{
+            background-color: grey;
+            width: 60pc;
+        }   
+        .about{
+            background-color: black;
+            color: white;
+        }
+        .gmail{
+            padding: 10px;
+            width: 30pc;
+        }
+        button{
+            background-color: red;
+            padding: 10px;
+            color: white;
+            width: 5pc;
+        }
+        .us{
+            background-color: white;
+        }
